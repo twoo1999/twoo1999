@@ -1,7 +1,7 @@
 ## 👋 안녕하세요 김태우입니다.
 ## PROJECTS
 ### 🎵 [Music Spot](https://github.com/boostcampwm2023/iOS01-MusicSpot)
-Music Spot은 사용자의 여정을 기록하는 iOS 애플리케이션입니다.
+Music Spot은 사용자의 여정을 기록하는 iOS 애플리케이션입니다. <br>
 사용자의 움직임을 실시간으로 추적해 기록하고 중간의 스팟들을 사진과 음악으로 기록합니다.
 
 - 팀원: 4명(with iOS [윤동주](https://github.com/yoondj98), [전민건](https://github.com/PushedGun), [이창준](https://github.com/SwiftyJunnos))
@@ -11,7 +11,7 @@ Music Spot은 사용자의 여정을 기록하는 iOS 애플리케이션입니�
 - 핵심 기여:
 
 ### 📝 [Spring Wallet](https://github.com/twoo1999/SpringWallet)
-Spring Wallet은 사용자의 소비를 기록하는 웹 가계부 프로젝트입니다.
+Spring Wallet은 사용자의 소비를 기록하는 웹 가계부 프로젝트입니다. <br>
 사용자가 기록한 정보를 통해 AI에 분석을 맡길 수 있고 이를 통해 소비 습관의 개선을 유도합니다.
 
 - 팀원: 개인 개발
