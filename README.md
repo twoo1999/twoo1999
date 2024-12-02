@@ -1,6 +1,6 @@
 ## 👋 안녕하세요 김태우입니다.
 ## PROJECTS
-### 🎵[Music Spot](https://github.com/boostcampwm2023/iOS01-MusicSpot)
+### 🎵 [Music Spot](https://github.com/boostcampwm2023/iOS01-MusicSpot)
 Music Spot은 사용자의 여정을 기록하는 iOS 애플리케이션입니다.
 사용자의 움직임을 실시간으로 추적해 기록하고 중간의 스팟들을 사진과 음악으로 기록합니다.
 
