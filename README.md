@@ -9,6 +9,11 @@ Music Spot은 사용자의 여정을 기록하는 iOS 애플리케이션입니�
 - 기간: 2023.11 ~ 2023.12
 - 기술 스택: NestJS, MongoDB, Docker
 - 핵심 기여:
+  - MySQL 공간 데이터베이스를 통한 데이터 필터링
+  - GitHub Actions와 Docker를 통한 배포 자동화
+  - VPC를 통한 데이터베이스와 사설 서버를 논리적 분리
+  - OAuth2.0을 통한 인증 및 JWT를 통한 인증 정보 관리
+  - Redis 사용을 통한 Refresh Token에 대한 접근 속도 증가
 
 ### 📝 [Spring Wallet](https://github.com/twoo1999/SpringWallet)
 Spring Wallet은 사용자의 소비를 기록하는 웹 가계부 프로젝트입니다. <br>
@@ -19,6 +24,10 @@ Spring Wallet은 사용자의 소비를 기록하는 웹 가계부 프로젝트�
 - 기간: 2024.05 ~ 
 - 기술 스택: Spring Boot, MySQL, Redis
 - 핵심 기여:
+   - 복합 인덱스를 통한 Slow query 개선(20.5s → 32.19ms)
+  - K6 부하 테스트 결과 기반 성능 개선 확인
+  - SSE와 Gemini AI를 통한 AI 분석 알림
+  - React를 통한 UI 구현
 
 
 ## EDUCATION
