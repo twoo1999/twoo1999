@@ -21,7 +21,7 @@ Spring Wallet은 사용자의 소비를 기록하는 웹 가계부 프로젝트�
 
 - 팀원: 개인 개발
 - 역할: Full Stack
-- 기간: 2024.05 ~ 
+- 기간: 2024.05 ~ 2024.12
 - 기술 스택: Spring Boot, MySQL, Redis
 - 핵심 기여:
    - 복합 인덱스를 통한 Slow query 개선(20.5s → 32.19ms)
